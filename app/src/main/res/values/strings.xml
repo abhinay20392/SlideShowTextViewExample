@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SlideShowTextViewExample</string>
+    <string-array name="system">
+        <item>earth</item>
+        <item>moon</item>
+        <item>jupitor</item>
+        <item>saturn</item>
+        <item>hello</item>
+        <item>this</item>
+        <item>alambagh</item>
+    </string-array>
+</resources>
